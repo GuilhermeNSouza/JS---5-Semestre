@@ -3,7 +3,7 @@ function calcularPorcentagem(valor, porcentagem) {
 }
 //let valorTotal = prompt("Digite um número: ");
 //let porcentagem = prompt("Digite a porcentagem que você deseja calcular: ")
-let valorTotal = 200;
-let porcentagem = 20;
+let valorTotal = 100;
+let porcentagem = 10;
 let resultado = calcularPorcentagem(valorTotal, porcentagem);
 console.log("porcentagem", porcentagem + "% de", valorTotal + " é: ", resultado);
